@@ -1,0 +1,32 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+
+    <!-- Purple Main Circle -->
+    <circle cx="150" cy="150" r="110" fill="#7C4DFF" />
+
+    <!-- Inner Ring -->
+    <circle cx="150" cy="150" r="85" fill="none" stroke="#B39DFF" stroke-width="8" />
+
+    <!-- QUIZ Text -->
+    <text x="150" y="165" text-anchor="middle" font-size="56" font-weight="700" fill="#FFFFFF"
+        font-family="Arial, Helvetica, sans-serif">
+        QUIZ!
+    </text>
+
+    <!-- Yellow Question Mark Bubble -->
+    <circle cx="85" cy="80" r="28" fill="#FFC107" />
+    <text x="85" y="90" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF"
+        font-family="Arial, Helvetica, sans-serif">
+        ?
+    </text>
+
+    <!-- Red Check Bubble -->
+    <circle cx="215" cy="215" r="28" fill="#F44336" />
+    <path d="M200 215 L210 225 L230 205" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"
+        stroke-linejoin="round" />
+
+    <!-- Decorative Lines -->
+    <line x1="215" y1="50" x2="225" y2="35" stroke="#7C4DFF" stroke-width="4" />
+    <line x1="230" y1="60" x2="250" y2="50" stroke="#7C4DFF" stroke-width="4" />
+    <line x1="235" y1="75" x2="255" y2="80" stroke="#7C4DFF" stroke-width="4" />
+
+</svg>
